@@ -1,0 +1,7 @@
+Desafio 1:
+Suponha que você tenha uma lista de objetos Produto, onde cada objeto possui os atributos nome, preco e quantidade.
+O objetivo é realizar as seguintes operações:
+
+- Filtrar apenas os produtos cujo preço seja maior que 100.
+- Transformar a lista filtrada em uma lista de strings contendo apenas os nomes dos produtos em caixa alta.
+- Reduzir a lista de nomes concatenando-os em uma única string separada por vírgulas.
