@@ -1,3 +1,6 @@
+A meta é realizar os desafios que na grande maioria são simples de uma forma elegante e sofisticada, utilizando ferramentas
+das versões mais recentes do Java:
+
 Desafio 1:
 Suponha que você tenha uma lista de objetos Produto, onde cada objeto possui os atributos nome, preco e quantidade.
 O objetivo é realizar as seguintes operações:
@@ -5,3 +8,11 @@ O objetivo é realizar as seguintes operações:
 - Filtrar apenas os produtos cujo preço seja maior que 100.
 - Transformar a lista filtrada em uma lista de strings contendo apenas os nomes dos produtos em caixa alta.
 - Reduzir a lista de nomes concatenando-os em uma única string separada por vírgulas.
+
+----------------------------------------------------------------------------------------------------------------------
+
+Desafio 2:
+Dada uma lista de números inteiros, crie um programa que retorne a soma dos números pares presentes na lista.
+
+Por exemplo, se a lista de números for [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], a saída esperada será 30, que é a soma dos
+números pares (2 + 4 + 6 + 8 + 10).
