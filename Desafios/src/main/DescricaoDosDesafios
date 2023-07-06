@@ -16,3 +16,13 @@ Dada uma lista de números inteiros, crie um programa que retorne a soma dos nú
 
 Por exemplo, se a lista de números for [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], a saída esperada será 30, que é a soma dos
 números pares (2 + 4 + 6 + 8 + 10).
+
+--------------------------------------------------------------------------------------
+
+Desafio 3:
+Você recebe duas strings word1 e word2. Mescle as strings adicionando letras em ordem alternada, começando com word1.
+Se uma string for maior que a outra, acrescente as letras adicionais no final da string mesclada.
+
+Ex: word1 "ABC"
+    word2 "PQR"
+    output: "APBQCR"
